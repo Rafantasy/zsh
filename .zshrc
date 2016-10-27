@@ -103,3 +103,5 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 #TensorFlow
 export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.11.0rc0-py2-none-any.whl
+
+alias ll='ls -al'
